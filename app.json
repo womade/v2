@@ -11,7 +11,7 @@
       "required": true
     },
     "UUID": {
-      "description": "用户的主ID",
+      "description": "用户的主 ID",
       "value": "00000000-0000-0000-0000-000000000000",
       "required": true
     },
